@@ -1,0 +1,35 @@
+Database Management Systems Expert
+Date: July 5, 2023
+
+I think I'll start this first blog by giving the classic
+elevator pitch. Hi, my name is Noah Lewis. I am currently
+a senior at Louisiana State University studying Computer
+Science. I am also getting a minor in mathematics. I worked
+for about 6 months as a back-end C# ASP.NET developer for 
+Rural Sourcing. After that I got another job at Vigilus
+as another back-end engineer. It is a startup so I work
+on many different projects with a diverse group of tools 
+including Firebase, AWS, Postgres, Express, GCF, and many 
+many others. I also currently work part time as a cloud 
+computing engineer for LSU. The project I'm involved with
+aims to collect a data from using IOT sensors, send 
+this data to a database, and then perform analysis and provide 
+user feedback. So that's my elevator pitch. While I have
+experience using DBMS's in my work I feel like the internals
+are a black box and that is what I'm here to uncover.
+
+So, today I started taking the first steps towards learning 
+how to create database management systems. To begin,
+I started with looking around this website 
+https://pages.cs.wisc.edu/~dbbook/openAccess/Minibase/minibase.html.
+I read chapter 1 of the correlating book and also read about all the
+components of the example DBMS named Minibase. Chapter 1 
+just gave an overview of DBMS's explaining their purpose 
+and a simple view of how they work internally. I specifically
+chose this book because of the book assigns to reader to 
+implement certain components of Minibase.
+
+Welp, that's it for today, thx for reading.
+
+Author: Noah Lewis
+Email: nlewi26@lsu.edu
